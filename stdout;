@@ -1,0 +1,5 @@
+carts              line_items         products           schema_migrations
+seq  name             file                                                      
+---  ---------------  ----------------------------------------------------------
+0    main             D:\workspace\ruby\depot\db\development.sqlite3            
+1    temp                                                                       
